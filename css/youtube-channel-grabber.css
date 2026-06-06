@@ -1,0 +1,37 @@
+.ytcg_ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+
+}
+
+.ytcg_ul li{
+	line-height: 1.1em;
+	width: 36px;
+	margin-right: 18px;
+	float: left;
+}
+
+.ytcg_ul li img {
+	width: 360px;
+	height: 276px;
+	margin-top: 20px;
+	border: 0;
+}
+
+.ytcg_ul li div {
+	margin: 5px;
+}
+
+
+
+.ytcg_ul li div a:hover {
+	text-decoration: underline;
+}
+
+.ytcg_ul li p {
+	margin: 0;
+	margin-top: 10px;
+
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /v/
+Disallow: /tmp/
+Disallow: /dev/
+Disallow: /Media/
+Sitemap: https://7ru.org/sitemap.xml
